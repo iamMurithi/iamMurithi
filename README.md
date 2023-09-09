@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Victor
 - 👀 I’m interested in Computers n stuff 😁
 - 🌱 I’m currently learning 'how to learn' 🤔
-- 
 - 📫 How to reach me:  www.linkedin.com/in/victor-murithi-choclate
 
 <!---
